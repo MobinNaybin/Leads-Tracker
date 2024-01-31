@@ -1,8 +1,7 @@
-Quick start:
+1. Download the folder.
 
-```
-$ npm install
-$ npm start
-````
+2. Head over to chrome://extensions/ in your chrome browser. 
 
+3. Upload it to chrome by clicking on "Load unpacked".
 
+4. Now you can use the extention!
