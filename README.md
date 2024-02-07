@@ -1,10 +1,3 @@
-1. Download the folder.
-
-2. Head over to [chrome://extensions/](chrome://extensions/) in your chrome browser. 
-
-3. Upload it to chrome by clicking on "Load unpacked".
-
-4. Now you can use the extention!
 # Leads Tracker Chrome Extension
 
 Leads Tracker is a Chrome extension designed to simplify note-taking while browsing the web. With this extension, you can effortlessly save links or the current tab to quickly capture important information or references during your online research.
