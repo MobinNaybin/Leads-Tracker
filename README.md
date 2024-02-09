@@ -37,7 +37,3 @@ Leads Tracker is a Chrome extension designed to simplify note-taking while brows
 ## Contributions
 
 Contributions to the Lead Tracker Chrome Extension are welcomed! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://kopplin.mit-license.org).
